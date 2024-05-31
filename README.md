@@ -1,4 +1,4 @@
-A passionate full stack developer from Pune, India
+A passionate full stack developer from Nagpur, India
 🌱 I’m currently learning Springboot, Spring Data JPA, Web Services, Micro Services, Maven
 
 💬 Ask me about Core Java, Hibernate, Spring, MySQL, Angular.
